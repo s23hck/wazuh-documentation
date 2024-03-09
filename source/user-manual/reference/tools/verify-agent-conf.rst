@@ -17,4 +17,4 @@ Usage:
 
 .. code-block:: console
 
-      verify-agent-conf [-f <agent.conf file>]
+      $ /var/ossec/bin/verify-agent-conf [-f <agent.conf file>]
